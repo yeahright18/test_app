@@ -1,1 +1,1 @@
-Setting up a git repository, finally working as expected.
+Test app made in Rails 6
